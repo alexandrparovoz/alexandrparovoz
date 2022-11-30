@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @alexandrparovoz
 - 👀 I’m interested in python development
 - 🌱 I’m currently learning Python language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me telegram: @alexandr, + 3759648218
 
 <!---
 alexandrparovoz/alexandrparovoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
